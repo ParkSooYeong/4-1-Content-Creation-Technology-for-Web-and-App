@@ -53,7 +53,7 @@
                         <input type="checkbox" name="book" value="yes" >독서 &nbsp; 
                         <input type="checkbox" name="shop" value="yes" >쇼핑 &nbsp; 
                         <input type="checkbox" name="sport" value="yes" checked>운동
-                        </td>
+                    </td>
                 </tr>
                 <tr>
                     <td align="right">자기소개 :</td>
